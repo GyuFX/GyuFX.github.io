@@ -7,7 +7,7 @@
 
 # Site settings
 title: Gyu
-brief-intro: Developmet
+brief-intro: Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gyu94.github.io" # the base hostname & protocol for your site
 

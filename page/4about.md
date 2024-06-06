@@ -16,7 +16,7 @@ type: page
 ## SNS
 
 * GitHub：[gyu94](https://github.com/gyu94)
-* email：dmdrb94@gmail.comhttp://linglinyp.com/)
+* email：dmdrb94@gmail.com
 * youtube : [Gyu FX](https://www.youtube.com/@GyuFX/videos)
 
 ## Comments

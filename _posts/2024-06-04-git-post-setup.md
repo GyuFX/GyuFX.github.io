@@ -3,7 +3,7 @@ layout: post
 title:  "git post setup"
 date:   1999-03-15 22:14:54
 categories: Git
-tags: blog, post
+tags: blog post
 typora-root-url: ../
 ---
 

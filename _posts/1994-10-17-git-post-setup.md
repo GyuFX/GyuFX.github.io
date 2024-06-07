@@ -18,4 +18,3 @@ typora-root-url: ../
 Base Set up
 
 <img src="/assets/images/1994-10-17-git-post-setup/aniyuki-my-hero-academia-34.gif" alt="aniyuki-my-hero-academia-34" style="zoom:33%;" />
-

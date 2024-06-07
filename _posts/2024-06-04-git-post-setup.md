@@ -8,7 +8,7 @@ mathjax: true
 typora-root-url: ../
 ---
 
-[TOC]
+\* content {:toc}
 
 ---
 

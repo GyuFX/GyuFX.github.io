@@ -8,8 +8,10 @@ author: Gyu
 mathjax: true
 typora-root-url: ../
 ---
+
 * content
 {:toc}
+
 ---
 
 ## Git

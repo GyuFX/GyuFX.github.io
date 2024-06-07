@@ -9,10 +9,6 @@ mathjax: true
 typora-root-url: ../
 ---
 
-[TOC]
-
-
-
 ## Git
 
 Base Set up

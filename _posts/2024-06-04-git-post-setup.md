@@ -7,6 +7,10 @@ tags: blog post
 typora-root-url: ../
 ---
 
+[TOC]
+
+---
+
 ## Git
 
 <img src="/assets/images/2024-06-04-git-post-setup/aniyuki-my-hero-academia-34.gif" alt="aniyuki-my-hero-academia-34" style="zoom:33%;" />

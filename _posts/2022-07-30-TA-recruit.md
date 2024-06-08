@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TA 공고 및 준비"
+title:  "TA recruit"
 date:   2020-07-30 22:00:00
 categories: Development
 tags: TA career

@@ -18,13 +18,14 @@ type: page
 
 ### Theory
 
-- ### [원근법](https://brunch.co.kr/brunchbook/tonycart1)
+- [원근법](https://brunch.co.kr/brunchbook/tonycart1)
 
 원근법에 대한 'Tony C'님의 심도있는 에세이
 
 ## Community
 
 - [FX102](https://cafe.naver.com/unrealfx)
+- [Github 갤러리](https://gall.dcinside.com/mgallery/board/lists/?id=github)
 
 대한민국 이펙트 카페
 

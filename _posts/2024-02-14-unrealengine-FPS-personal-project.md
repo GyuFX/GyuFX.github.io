@@ -120,3 +120,9 @@ BP Class Chracter, Controller ,GameMode로 컨트롤을 한다. 그리고 Input 
 ![char-move-turn](/assets/images/2024-02-14-unrealengine-FPS-personal-project/char-move-turn.gif)
 
 <img src="/assets/images/2024-02-14-unrealengine-FPS-personal-project/image-20240608155351516.png" alt="image-20240608155351516" style="zoom:67%;" />
+
+## Overlap Trigger
+
+Trigger Volume을 Overlap시켜 시작과 끝을 만들어 준다.
+
+![trigger](/assets/images/2024-02-14-unrealengine-FPS-personal-project/trigger.gif)

@@ -105,11 +105,18 @@ BP로 빠르게 구성하고 C++ 변환하는 작업을 한다. 이 과정에서
 
 ## 개발 환경 구축
 
+'git'으로 연동을 한 후 버전 관리를 한다. 이번에 깃허브 페이지를 만들면서 깃에 대해 완벽하게 이해했다.
 
+![ue-git](/assets/images/2024-02-14-unrealengine-FPS-personal-project/ue-git.png)
 
+## GamePlay Framework
 
+나의 게임에 맞는 게임 프레임워크를 구성한다.
 
+BP Class Chracter, Controller ,GameMode로 컨트롤을 한다. 그리고 Input Action 프레임 워크 사용하여 캐릭터 이동을 구현했다.
 
+'Add Mapping Context'를 활용하여 캐릭터의 이동을 조작한다.
 
+![char-move-turn](/assets/images/2024-02-14-unrealengine-FPS-personal-project/char-move-turn.gif)
 
-
+<img src="/assets/images/2024-02-14-unrealengine-FPS-personal-project/image-20240608155351516.png" alt="image-20240608155351516" style="zoom:67%;" />

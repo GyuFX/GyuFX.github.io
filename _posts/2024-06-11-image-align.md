@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Github pages image align center"
-date:   2024-06-12 22:00:00
+date:   2024-06-11 22:00:00
 categories: Web
 tags: blog github css web markdown
 author: Gyu
@@ -20,7 +20,7 @@ typora-root-url: ../
 깃헙 페이지를 작성하면서 하나의 고민거리가 있었는데, 바로 이미지 정렬이다.
 이게 가독성이 정말 꽝이다...
 
-![image-20240612180330056](/assets/images/2024-06-12-image-align/image-20240612180330056.png)
+![image-20240612180330056](/assets/images/2024-06-11-image-align/image-20240612180330056.png)
 
 ## 과정
 
@@ -61,4 +61,4 @@ img {
 
 잘 되었다면 이 글이 푸시되었때 중앙 정렬이 되있겠지...
 
-![deku](/assets/images/2024-06-12-image-align/deku.gif)
+![deku](/assets/images/2024-06-11-image-align/deku.gif)

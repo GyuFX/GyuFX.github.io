@@ -17,4 +17,4 @@ typora-root-url: ../
 
 Base Set up
 
-<img src="/D:/Blog/gyufx.github.io/assets/images/1994-10-17-post-setup/aniyuki-my-hero-academia-34.gif" alt="aniyuki-my-hero-academia-34" style="zoom:25%;" />
+<img src="/assets/images/1994-10-17-post-setup/deku1.gif" alt="deku1" style="zoom:33%;" />

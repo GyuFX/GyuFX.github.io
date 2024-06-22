@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "git post setup"
-date:   1994-10-17 22:00:00
+date:   1994-10-17 06:00:00
 categories: Git
 tags: blog post
 author: Gyu

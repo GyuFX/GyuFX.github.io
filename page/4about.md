@@ -15,7 +15,7 @@ type: page
 
 ## SNS
 
-* GitHub：[gyu94](https://github.com/gyu94)
+* GitHub：[gyufx](https://github.com/gyufx)
 * email：dmdrb94@gmail.com
 * youtube : [Gyu FX](https://www.youtube.com/@GyuFX/videos)
 

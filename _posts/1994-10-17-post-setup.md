@@ -7,7 +7,7 @@ tags: blog post
 author: Gyu
 mathjax: true
 typora-root-url: ../
-published: false
+published: true
 ---
 
 * content

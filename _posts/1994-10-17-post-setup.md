@@ -7,6 +7,7 @@ tags: blog post
 author: Gyu
 mathjax: true
 typora-root-url: ../
+published: false
 ---
 
 * content
@@ -15,6 +16,3 @@ typora-root-url: ../
 ---
 ## Git
 
-Base Set up
-
-<img src="/assets/images/1994-10-17-post-setup/deku1.gif" alt="deku1" style="zoom:33%;" />

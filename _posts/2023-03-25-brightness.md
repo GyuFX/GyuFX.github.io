@@ -16,5 +16,5 @@ published: true
 ---
 ## 네거티브 영역의 비교
 
-![red](/assets/images/2023-03-25-brightness/red.png) |  ![black](/assets/images/2023-03-25-brightness/black.png) ---| ---|
+![red](/assets/images/2023-03-25-brightness/red.png) |  ![black](/assets/images/2023-03-25-brightness/black.png) 
 
